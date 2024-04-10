@@ -1,0 +1,4 @@
+We have used the following dataset in this project.
+
+
+https://www.kaggle.com/datasets/karthika95/pedestrian-detection
